@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oECm7eeiW1mOlKtKG+CXW3YoGdSaDWSvcklvzfpaM8QGEEvWqhUELhqRhHCiR8O6vX9NPQF0ySGJsDUYN//6/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halford\\source\\repos\\TaxJarApi_WpfApp1\\TaxJarApi_WpfApp1\\TaxJarApi_WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halford\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\halford\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\halford\\.nuget\\packages\\taxjar\\3.3.2\\taxjar.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
