@@ -1,2 +1,2 @@
 # TaxJarAPI-TLSProtocolTester
- WPF Application to test requests made to Tax Jar API
+ WPF Application that I created to be used for testing a TLS proxy set up on a client's network. The app is designed to be able to strip security protocols from requests before being delivered, which lets us test what happens when the TLS proxy is off, versus when it is activated. There are two buttons, the left button is the control (not changed in any way), while the right button has its protocols stripped before making the API call.
